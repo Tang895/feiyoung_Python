@@ -1,2 +1,3 @@
 # feiyoung_Python
 电信飞young宽带python登录脚本
+需要抓包获取自己31天的密码
